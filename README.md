@@ -6,8 +6,10 @@
   - [ ] OTHER FEATURES
 
 **CHARACTER**
+  - [ ] **CHARACTER MOVEMENT**
   - [ ] PLAYER
   - [ ] ENEMY
+    - [ ] PATHFINDING
 
 **BASE UI**
   - [ ] MESSAGE & DIALOGUE
