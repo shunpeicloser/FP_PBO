@@ -8,8 +8,10 @@
 
 **CHARACTER**
   - [ ] PLAYER
-	- [ ] ABILITY
-	- [ ] SHOOT BULLET
+	- [ ] WEAPON
+	  - [ ] GRENADE
+	  - [ ] PORTABLE SCANNER
+	- [ ] SHOOT BULLET (BOSS STAGE ONLY)
 	- [ ] MOVEMENT
   - [ ] ENEMY
     - [ ] PATHFINDING
@@ -18,7 +20,8 @@
 	- [ ] MOVEMENT
 
 **GAMEPLAY**
-  - [ ] BATTLE???
+  - [ ] BULLET HELL MINIGAME
+  - [ ] BULLET HELL BOSS STAGE
   - [ ] DAMAGE PROCESSING
 
 **BASE UI**
