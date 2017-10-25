@@ -1,18 +1,29 @@
 # TO-DO
 **MAP**
   - [ ] GENERATE MAP
-  - [ ] GENERATE OBSTACLE
+	- [ ] GENERATE OBSTACLE
+	- [ ] GENERATE MAP SOLUTION PATH
   - [ ] ENEMY POSITIONING
   - [ ] OTHER FEATURES
 
 **CHARACTER**
-  - [ ] **CHARACTER MOVEMENT**
   - [ ] PLAYER
+	- [ ] ABILITY
+	- [ ] SHOOT BULLET
+	- [ ] MOVEMENT
   - [ ] ENEMY
     - [ ] PATHFINDING
+	- [ ] SHOOT BULLET
+	- [ ] ABILITY
+	- [ ] MOVEMENT
+
+**GAMEPLAY**
+  - [ ] BATTLE???
+  - [ ] DAMAGE PROCESSING
 
 **BASE UI**
   - [ ] MESSAGE & DIALOGUE
+  - [ ] SHOW PICTURE
 
 **UI**
   - [ ] MAIN MENU
@@ -23,8 +34,9 @@
   - [ ] PLAYER MENU
 
 **DATA MANAGEMENT**
-  - [ ] SAVE
-  - [ ] LOAD
+  - [ ] SAVEDATA
+  - [ ] LOAD SAVEDATA
+  - [ ] ASSET LOAD
 
 **SOUND**
   - [ ] PLAY SOUND
