@@ -37,8 +37,8 @@
   - [ ] PLAYER MENU
 
 **DATA MANAGEMENT**
-  - [ ] SAVEDATA
-  - [ ] LOAD SAVEDATA
+  - [ ] SAVE
+  - [ ] LOAD
   - [ ] ASSET LOAD
 
 **SOUND**
